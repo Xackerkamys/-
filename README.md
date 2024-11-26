@@ -22,3 +22,4 @@
 ```
 ## Блок схема алгоритма реализована в сервисе CorelDRAW
 ![Block-Diagram.svg](Block-Diagram.svg)
+
