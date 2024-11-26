@@ -24,4 +24,4 @@
 ![Block-Diagram.svg](Block-Diagram.svg)
 
 ## Решение задачи на C#
-![Program.cs](Program.cs)
+![](Program.cs)
